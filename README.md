@@ -1,5 +1,5 @@
 # Binary Classification with Logistic Regression
-## Student-Friendly Exam Study Guide
+
 
 ---
 
